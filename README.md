@@ -6,7 +6,8 @@ Exploring Cloud Security, AI in Cybersecurity,
 and API Security
 Lifelong learner passionate about Cybersecurity and the future
 
-Skills: Technical Expertise: Web &amp; Application Security, Penetration Testing, Risk Assessments, Network Security, Endpoint security - Tools: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
+Skills: Technical Expertise: Web &amp; Application Security, Penetration Testing, Risk Assessments, Network Security, Endpoint security 
+- Tools: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
 
 - 📫 How to reach me: nnanyeremirian@gmail.com 
 - ⚡ Fun fact: I believe dark mode makes my code 10% faster. 
