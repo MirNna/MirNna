@@ -1,16 +1,16 @@
-## Hi there, I'm Mirian Nnanyere 👋
-### About Me
-<!--
-**MirNna/MirNna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My name is Mirian Nnanyere
+#### I am a Cybersecurity Specialist
+![I am a Cybersecurity Specialist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+Exploring Cloud Security, AI in Cybersecurity,
+and API Security
+Lifelong learner passionate about Cybersecurity and the future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Technical Expertise: Web &amp; Application Security, Penetration Testing, Risk Assessments, Network Security, Endpoint security - Tools: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
+
+- 📫 How to reach me: nnanyeremirian@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mirian Nnanyere/)  
+
+
