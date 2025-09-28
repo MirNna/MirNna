@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mirian Nnanyere
 #### I am a Cybersecurity Specialist
-![I am a Cybersecurity Specialist]<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/a56f60b9-8e3d-450d-ad5b-5688a468aaa2" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/a56f60b9-8e3d-450d-ad5b-5688a468aaa2" />
 
 Exploring Cloud Security, AI in Cybersecurity,
 and API Security
